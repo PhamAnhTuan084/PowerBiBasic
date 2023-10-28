@@ -1,0 +1,2 @@
+# PowerBiBasic
+Learn Basic PowerBi 
